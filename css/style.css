@@ -1,0 +1,47 @@
+.jTop {
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center center;
+  color: #FFF;
+}
+
+#theEmail {
+  width: 300px;
+}
+
+.paddingT75 {
+  padding-top: 75px;
+}
+
+.paddingBtm {
+  padding-bottom: 75px;
+}
+
+.floatL {
+  float: left;
+}
+
+.jBottom {
+  margin-bottom: 0;
+}
+
+body {
+  position: relative;
+}
+
+.iconSpace {
+  margin-right: 20px;
+}
+
+.facebookIconColor {
+  color: #3B5998
+}
+
+.twitterIconColor {
+  color: #55acee
+}
+
+.instagramIconColor {
+  color: #fb3958
+}
